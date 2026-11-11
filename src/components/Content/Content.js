@@ -9,7 +9,7 @@ function Content() {
                     <div className="content-copy">
                         <p className="content-kicker">PROGRAMMING PORTFOLIO</p>
                         <h1 id="content-title">
-                            Mahmoud Abdelrahman <span>Elshreif</span>
+                            Mahmoud Abdelrahman Elshreif
                         </h1>
                         <p className="content-role">FRONT-END DEVELOPER</p>
                         <p className="content-description">
